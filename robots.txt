@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://minervaartoffice-star.github.io/nelpedia/sitemap.xml
